@@ -1,1 +1,1 @@
-A simplified version for Akita Zemi and Data Science Course in Kyoto Univ.
+A simplified version from Akita Zemi and Data Science Course for the Department of Economics at Kyoto University
